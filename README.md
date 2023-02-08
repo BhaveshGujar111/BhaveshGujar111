@@ -1,6 +1,6 @@
 - 👋 Hi, I’m BhaveshGujar
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Flutter and Golang
+- 🌱 I’m currently working on Flutter and Golang 
 - 💞️ I’m looking to collaborate on some exciting project
 - 📫 You can reach me at Email - bhaveshgujar475@gmail.com
 
